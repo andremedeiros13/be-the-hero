@@ -16,6 +16,5 @@ export default function Routes() {
                 <Route path="/incidents/new" component={NewIncident} />
             </Switch>   
         </BrowserRouter>
-
     );
 }
