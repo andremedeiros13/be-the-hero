@@ -36,7 +36,7 @@ async function handleRegister(e){
     }catch(error){
         alert('Erro no cadastro, tente novamente.')
     }
-    
+        
 }
 
 return(
